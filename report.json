@@ -7,15 +7,15 @@
   "url": "https://github.com/OpenCCU/OpenCCU-Base/commit/a0c98c2b28f9128911183b1b22fe711e40bd18a4"
  },
  "filtered_commits": 454,
- "generated": "2026-11-15 12:44 UTC",
+ "generated": "2026-11-16 13:38 UTC",
  "lite": "bebbcc15bcb050a311a609af80c3bbb0ecf537be",
  "openccu": {
   "master": {
    "commit": "58c24dffae90c265433054fc3410cb154e5e9068",
    "name": "OpenCCU master",
-   "openccu": "1712362871701d1bd827f620bcd7d781529b5a86",
+   "openccu": "518da91d06d9547d8fa643889814917f031b0b91",
    "pin": "58c24dffae90c265433054fc3410cb154e5e9068",
-   "url": "https://github.com/OpenCCU/OpenCCU/commit/1712362871701d1bd827f620bcd7d781529b5a86"
+   "url": "https://github.com/OpenCCU/OpenCCU/commit/518da91d06d9547d8fa643889814917f031b0b91"
   },
   "release": {
    "commit": "3ed652a404d72cbe403e37c5b8b1f610451b02fb",
