@@ -1,27 +1,14 @@
 {
- "above": [
-  {
-   "author": "github-actions[bot]",
-   "date": "2026-11-16T18:46:16+01:00",
-   "filtered": "722d24a4a985d0cab786ab4a0b3eccf6a37b12d6",
-   "in_master": true,
-   "in_release": false,
-   "new": true,
-   "pr": 370,
-   "subject": "release: 3.89.12 (#370)",
-   "upstream": "1372437b6d6977b6d7b28a9e9f22834de5c3bebd",
-   "url": "https://github.com/OpenCCU/OpenCCU-Base/commit/1372437b6d6977b6d7b28a9e9f22834de5c3bebd"
-  }
- ],
+ "above": [],
  "boundary": {
-  "date": "2026-11-13T17:51:59+01:00",
-  "sha": "a0c98c2b28f9128911183b1b22fe711e40bd18a4",
-  "subject": "hmipserver: lower Legacy.Client.Connection.Timeout to 30 s (#361)",
-  "url": "https://github.com/OpenCCU/OpenCCU-Base/commit/a0c98c2b28f9128911183b1b22fe711e40bd18a4"
+  "date": "2026-11-17T21:15:05+01:00",
+  "sha": "629096c316366dfc62c665912c109da5a67fbeb5",
+  "subject": "rfd: keep a LAN gateway that is not reachable at start (#384)",
+  "url": "https://github.com/OpenCCU/OpenCCU-Base/commit/629096c316366dfc62c665912c109da5a67fbeb5"
  },
- "filtered_commits": 455,
- "generated": "2026-11-17 14:23 UTC",
- "lite": "bebbcc15bcb050a311a609af80c3bbb0ecf537be",
+ "filtered_commits": 457,
+ "generated": "2026-11-17 20:34 UTC",
+ "lite": "fd545031db721dfff81815b6d88e6edc11339cf7",
  "openccu": {
   "master": {
    "commit": "cf387c11c5ce29a35e3b5edeaf896ce7849b1320",
@@ -39,6 +26,6 @@
   }
  },
  "paths_commit": "455c9bce9edb8cc9651b8ba18619f053458b146d",
- "skipped_below": 15,
- "upstream_main": "cf387c11c5ce29a35e3b5edeaf896ce7849b1320"
+ "skipped_below": 0,
+ "upstream_main": "629096c316366dfc62c665912c109da5a67fbeb5"
 }
