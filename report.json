@@ -1,14 +1,14 @@
 {
  "above": [],
  "boundary": {
-  "date": "2026-11-17T21:15:05+01:00",
-  "sha": "629096c316366dfc62c665912c109da5a67fbeb5",
-  "subject": "rfd: keep a LAN gateway that is not reachable at start (#384)",
-  "url": "https://github.com/OpenCCU/OpenCCU-Base/commit/629096c316366dfc62c665912c109da5a67fbeb5"
+  "date": "2026-11-17T23:05:30+01:00",
+  "sha": "52622889e9943f1ed1147851ef06e26cd5d27811",
+  "subject": "webui: apply the system protocol filters with Enter (#385)",
+  "url": "https://github.com/OpenCCU/OpenCCU-Base/commit/52622889e9943f1ed1147851ef06e26cd5d27811"
  },
  "filtered_commits": 457,
- "generated": "2026-11-17 23:34 UTC",
- "lite": "fd545031db721dfff81815b6d88e6edc11339cf7",
+ "generated": "2026-11-18 07:44 UTC",
+ "lite": "38914460d2c0b483a2eeecac3adca704b63564e7",
  "openccu": {
   "master": {
    "commit": "52622889e9943f1ed1147851ef06e26cd5d27811",
