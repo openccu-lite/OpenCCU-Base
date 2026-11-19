@@ -1,34 +1,21 @@
 {
- "above": [
-  {
-   "author": "github-actions[bot]",
-   "date": "2026-11-18T21:37:24+01:00",
-   "filtered": "0d793335152d6271dfa96a02368f5899a275365c",
-   "in_master": true,
-   "in_release": false,
-   "new": true,
-   "pr": 398,
-   "subject": "release: 3.89.13 (#398)",
-   "upstream": "c56cc47a41b2a953815a8e4e2a2b7fb10d73e679",
-   "url": "https://github.com/OpenCCU/OpenCCU-Base/commit/c56cc47a41b2a953815a8e4e2a2b7fb10d73e679"
-  }
- ],
+ "above": [],
  "boundary": {
-  "date": "2026-11-17T23:05:30+01:00",
-  "sha": "52622889e9943f1ed1147851ef06e26cd5d27811",
-  "subject": "webui: apply the system protocol filters with Enter (#385)",
-  "url": "https://github.com/OpenCCU/OpenCCU-Base/commit/52622889e9943f1ed1147851ef06e26cd5d27811"
+  "date": "2026-11-18T21:37:24+01:00",
+  "sha": "c56cc47a41b2a953815a8e4e2a2b7fb10d73e679",
+  "subject": "release: 3.89.13 (#398)",
+  "url": "https://github.com/OpenCCU/OpenCCU-Base/commit/c56cc47a41b2a953815a8e4e2a2b7fb10d73e679"
  },
  "filtered_commits": 458,
- "generated": "2026-11-19 07:40 UTC",
- "lite": "38914460d2c0b483a2eeecac3adca704b63564e7",
+ "generated": "2026-11-19 12:02 UTC",
+ "lite": "43518ace00be9a952800f32113fa091aa38fa7ce",
  "openccu": {
   "master": {
    "commit": "c56cc47a41b2a953815a8e4e2a2b7fb10d73e679",
    "name": "OpenCCU master",
-   "openccu": "46d8d865becde38675f29839427865f483da1cde",
+   "openccu": "79cdd83d1ecb2f9e723f47898775dc08caf41185",
    "pin": "c56cc47a41b2a953815a8e4e2a2b7fb10d73e679",
-   "url": "https://github.com/OpenCCU/OpenCCU/commit/46d8d865becde38675f29839427865f483da1cde"
+   "url": "https://github.com/OpenCCU/OpenCCU/commit/79cdd83d1ecb2f9e723f47898775dc08caf41185"
   },
   "release": {
    "commit": "3ed652a404d72cbe403e37c5b8b1f610451b02fb",
