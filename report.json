@@ -20,15 +20,15 @@
   "url": "https://github.com/OpenCCU/OpenCCU-Base/commit/44bf79b5ff01be9a20cbf8e2763dc08964e59157"
  },
  "filtered_commits": 466,
- "generated": "2026-11-25 16:59 UTC",
+ "generated": "2026-11-27 08:50 UTC",
  "lite": "57b929708dc8b37425c2e5d0a6137a05650c41b2",
  "openccu": {
   "master": {
-   "commit": "ef0b1e7f419b3dfab1b034a14edcf1f3bc823df4",
+   "commit": "d35676ca1fd2ffa65cd87e9d3280680f8faf1da5",
    "name": "OpenCCU master",
-   "openccu": "b65b0c5d13755cf8fe36c880ec0f15ef883d3d51",
-   "pin": "ef0b1e7f419b3dfab1b034a14edcf1f3bc823df4",
-   "url": "https://github.com/OpenCCU/OpenCCU/commit/b65b0c5d13755cf8fe36c880ec0f15ef883d3d51"
+   "openccu": "e0d93fc412353b7d939ab7b85b25ab3f3339dfd0",
+   "pin": "d35676ca1fd2ffa65cd87e9d3280680f8faf1da5",
+   "url": "https://github.com/OpenCCU/OpenCCU/commit/e0d93fc412353b7d939ab7b85b25ab3f3339dfd0"
   },
   "release": {
    "commit": "44bf79b5ff01be9a20cbf8e2763dc08964e59157",
@@ -40,5 +40,5 @@
  },
  "paths_commit": "455c9bce9edb8cc9651b8ba18619f053458b146d",
  "skipped_below": 0,
- "upstream_main": "21d3a31ed628f611f966d1e14d3427e48a53edaa"
+ "upstream_main": "d35676ca1fd2ffa65cd87e9d3280680f8faf1da5"
 }
